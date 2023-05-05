@@ -23,15 +23,12 @@ Results are as below for comparing BiteNet and baseline models and ablation stud
 |Model   |  AUC Score   |
 |--------|--------------|
 |RNN     |  0.2665      |
-|--------|--------------|
 |RETAIN  |  0.2744      |
-|--------|--------------|
 |BiteNet |  0.2967      |
 
 
 |Model                  |  AUC Score  |
 |-----------------------|-------------|
 |BiteNet                |  0.2967     |
-|-----------------------|-------------|
 |BiteNet w/ replacement |  0.2798     |
 
