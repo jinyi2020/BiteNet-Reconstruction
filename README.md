@@ -19,7 +19,7 @@ Training code and evaluation code are both in BiteNet notebook. You can refer to
 
 Results are as below for comparing BiteNet and baseline models and ablation study.
 
----------------------------------------
+\---------------------------------------
 Model   |  AUC Score
 ---------------------------------------
 RNN     |  0.2665
